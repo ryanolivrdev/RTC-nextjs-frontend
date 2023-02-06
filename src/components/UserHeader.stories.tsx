@@ -3,7 +3,7 @@ import type { UserHeaderProps } from './UserHeader';
 import { UserHeader } from './UserHeader'
 
 export default {
-  title: 'Components/Header/User',
+  title: 'Components/HeaderUser',
   component: UserHeader,
   args: {
     name: 'Ana Caetano',
